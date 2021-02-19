@@ -18,7 +18,7 @@ Given a table of random users generated from the [Random User API](https://rando
 
 The user should be able to:
 
-  * Sort the table by at least one category
+  * Sort the table by at least one category (Image, Name, Phone, Email, DOB)
 
   * Filter the users by at least one property.
 
