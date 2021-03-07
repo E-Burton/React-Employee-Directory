@@ -3,6 +3,7 @@ import MaterialTable from "material-table";
 import React, {Component} from "react";
 import API from "../utils/API.js";
 
+
 const columns = [
     {
         title: "First Name",
@@ -14,7 +15,8 @@ const columns = [
     },
     {
         title: "Location",
-        field: "location.country"
+        field: "location.country",
+        lookup: {"United States": "United States", "Canada": "Canada", "United Kingdom": "United Kingdom"}
     },
     {
         title: "Phone",
@@ -60,7 +62,7 @@ export default class TableData extends Component {
                     title="Employee Directory" 
                     data={data} 
                     columns={columns}
-                    options={{search: true, paging: false, filtering: true, exportButton: true, headerStyle: {backgroundColor: "#248f8f", color: "#FFF"}, rowStyle: {backgroundColor: "#EEE"}}}
+                    options={{search: true, paging: true, filtering: true, exportButton: true, headerStyle: {backgroundColor: "#248f8f", color: "#FFF"}, rowStyle: {backgroundColor: "#EEE"}}}
                 />
             </div>
         )
