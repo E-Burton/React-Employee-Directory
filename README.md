@@ -43,6 +43,8 @@ THEN the user is able to filter the table by empoyee name
 
 ## Deployed Application
 
+[Click](https://e-burton.github.io/React-Employee-Directory/) to view deployed application!
+
 ## Additional Resources
 
 * [Axios React Tutorial](https://rapidapi.com/blog/axios-react-api-tutorial/)
