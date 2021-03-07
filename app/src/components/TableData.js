@@ -55,7 +55,7 @@ export default class TableData extends Component {
                     title="Employee Directory" 
                     data={data} 
                     columns={columns}
-                    options={{search: true, paging: false, filtering: true, exportButton: true}}
+                    options={{search: true, paging: false, filtering: true, exportButton: true, headerStyle: {backgroundColor: "#248f8f", color: "#FFF"}, rowStyle: {backgroundColor: "#EEE"}}}
                 />
             </div>
         )
