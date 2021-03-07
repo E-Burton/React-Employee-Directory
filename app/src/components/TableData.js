@@ -26,7 +26,12 @@ const columns = [
     }, 
     {
         title: "DOB",
-        field: "dob.date"
+        field: "dob.date",
+        render: rowData => {
+            // console.log(rowData.dob.date);
+            const event = new Date(rowData.dob.date);
+            return event.toLocaleDateString('en-US');
+        }
     }
 ]
 

@@ -51,3 +51,4 @@ THEN the user is able to filter the table by empoyee name
 * [REST API React Component](https://www.andreasreiterer.at/rest-api-react-component/)
 * [Top 5 React Table Libraries](https://blog.bitsrc.io/top-5-react-table-libraries-170505f75da7)
 * [How to use Google fonts in React.js](https://stackoverflow.com/questions/40769551/how-to-use-google-fonts-in-react-js)
+* [JavaScript Date](https://www.tutorialsteacher.com/javascript/javascript-date)
