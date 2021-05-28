@@ -43,7 +43,9 @@ THEN the user is able to filter the table by empoyee name
 
 ## Deployed Application
 
-[Click](https://e-burton.github.io/React-Employee-Directory/) to view deployed application!
+![Employee Directory Image](assets/react-employee-directory.png)
+
+[Click](https://e-burton.github.io/React-Employee-Directory/) to view live application!
 
 ## Additional Resources
 
