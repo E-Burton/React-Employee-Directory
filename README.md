@@ -1,4 +1,4 @@
-# React-Employee-Directory [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# React Employee Directory [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Objective
 Create an employee directory using React, with application UI broken up into components.
