@@ -45,7 +45,7 @@ THEN the user is able to filter the table by empoyee name
 
 ![Employee Directory Image](assets/react-employee-directory.png)
 
-[Click](https://e-burton.github.io/React-Employee-Directory/) to view live application!
+[Click](https://e-burton.github.io/React-Employee-Directory/) to view the live application!
 
 ## Additional Resources
 
